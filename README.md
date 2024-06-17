@@ -6,7 +6,7 @@
  ## Installation
     - By using mainly using Mongoose & MongoDB, we were able to create the application. We used npm install to download all of the dependencies and modules that we might need.
 ## Usage 
-    - By running npm start, users can gain access to the application.
+    - By running npm start, users can gain access to the application.g
 
 
 ## License
